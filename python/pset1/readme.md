@@ -1,4 +1,4 @@
-Problem 3
+## Problem 3
 15.0/15.0 points (graded)
 
 Assume s is a string of lower case characters.
@@ -14,7 +14,7 @@ Longest substring in alphabetical order is: abc
 Note: This problem may be challenging. We encourage you to work smart. If you've spent more than a few hours on this problem, we suggest that you move on to a different part of the course. If you have time, come back to this problem after you've had a break and cleared your head.
 
 
-Problem 2
+## Problem 2
 10.0/10.0 points (graded)
 
 Assume s is a string of lower case characters.
@@ -24,7 +24,7 @@ Write a program that prints the number of times the string 'bob' occurs in s. Fo
 Number of times bob occurs is: 2
 
 
-Problem 1
+## Problem 1
 10.0/10.0 points (graded)
 
 Assume s is a string of lower case characters.
